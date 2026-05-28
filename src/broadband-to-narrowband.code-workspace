@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "D:/dev/ardino/broadband-to-narrowband"
+		},
+		{
+			"name": "broadband-lambda-to-kjet-ecu",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
